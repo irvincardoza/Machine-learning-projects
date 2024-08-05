@@ -1,5 +1,11 @@
 ## Binary Regression to predict whether student is admitted to a university based on 2 exam scores:
 
+### Formulas Used:
+
+![WhatsApp Image 2024-08-05 at 21 20 33](https://github.com/user-attachments/assets/04375e03-b269-4bb5-a0b4-75faf560b813)
+
+
+
 ### Initial Plot:
 
 <img width="691" alt="Screenshot 2024-08-05 at 8 47 18 PM" src="https://github.com/user-attachments/assets/51181ba5-91a1-4dc9-8f4a-7e6f6d8f2291">
